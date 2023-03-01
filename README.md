@@ -3,10 +3,9 @@
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
-<h3>I'm a passionate Full Stack Web Developer based in Lucknow UP, curious and eager to learn new frameworks and languages with problem solving and determined mindset.</h3>
-
-<h3>I also have profiency in HTML,CS,JavaScript</h3>
-
+# 💫 About Me:
+<h3>🌱I'm currently learning MERN Stack Development.</h3>
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=AbhishekGupta1212&icon=5&color=0)](https://visitcount.itsvg.in)
 
