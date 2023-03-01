@@ -1,6 +1,5 @@
- ### Hi:, I am Abhishek Gupta
- 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%2C :wave+I'm+Abhishek+Gupta+;A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE27&vCenter=true&width=435&lines=Hi%F0%9F%91%8B+I+am+Abhishek+Gupta.;A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 I'm a passionate Full Stack Web Developer, curious and eager to learn new frameworks and languages.
 
