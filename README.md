@@ -1,9 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE27&vCenter=true&width=435&lines=Hi%F0%9F%91%8B+I+am+Abhishek+Gupta.;A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE27&vCenter=true&width=435&lines=Hi%F0%9F%91%8B+I'm+Abhishek+Gupta.;A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
-I'm a passionate Full Stack Web Developer based in Lucknow UP, curious and eager to learn new frameworks and languages with problem solving and determined mindset.
+<h3>I'm a passionate Full Stack Web Developer based in Lucknow UP, curious and eager to learn new frameworks and languages with problem solving and determined mindset.</h3>
+
+<h3>I also have profiency in HTML,CS,JavaScript</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=AbhishekGupta1212&icon=5&color=0)](https://visitcount.itsvg.in)
