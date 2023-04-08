@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <h3>🌱I'm currently learning MERN Stack Development.</h3>
-<h3>Ask me anything about JavaScript and React.</h3>
+<h3>Ask me anything about HTML,CSS,JavaScript,React and Redux</h3>
 <h3>Reach me on <a href="abhig1502@gmail.com">abhig1502@gmail.com</a></h3>
 <br/>
 
