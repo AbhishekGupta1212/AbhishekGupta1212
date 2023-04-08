@@ -4,10 +4,13 @@
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
 # 💫 About Me:
-<h3>🌱I'm currently learning MERN Stack Development.</h3>
-<h3>Ask me anything about HTML,CSS,JavaScript,React and Redux</h3>
-<h3>Reach me on <a href="abhig1502@gmail.com">abhig1502@gmail.com</a></h3>
-<br/>
+<ul>
+<li>I'm currently learning MERN Stack Development.</li>
+<li>Ask me anything about HTML,CSS,JavaScript,React and Redux.</li>
+<li>Reach me on <a href="abhig1502@gmail.com">abhig1502@gmail.com</a></li>
+  <li>See all my work here <a href="https://AbhishekGupta1212.github.io">https://AbhishekGupta1212.github.io</a></li>
+</ul>
+  <br/>
 
 [![](https://visitcount.itsvg.in/api?id=AbhishekGupta1212&icon=5&color=0)](https://visitcount.itsvg.in)
 
