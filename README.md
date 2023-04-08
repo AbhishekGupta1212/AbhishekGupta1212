@@ -8,7 +8,7 @@
 <li>I'm currently learning MERN Stack Development.</li>
 <li>Ask me anything about HTML,CSS,JavaScript,React and Redux.</li>
 <li>Reach me on <a href="abhig1502@gmail.com">abhig1502@gmail.com</a></li>
-  <li>See all my work here <a href="https://AbhishekGupta1212.github.io">https://AbhishekGupta1212.github.io</a></li>
+  <li>See all my work here https://AbhishekGupta1212.github.io</li>
 </ul>
   <br/>
 
