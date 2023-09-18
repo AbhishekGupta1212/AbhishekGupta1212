@@ -6,11 +6,11 @@
 
 # 💫 About Me:
 <ul>
-  <li> I am from Lucknow,UP. </li> 
-<li> I'm an Aspiring MERN Stack Developer.</li>
-<li>Profecient in HTML,CSS,JavaScript, React-Redux,MongoDB,Express and node.js.</li>
-<li> Reach me on <a href="abhig1502@gmail.com">abhig1502@gmail.com</a></li>
-<li> See all my work here <a href='https://abhishekgupta1212.github.io/'>Portfolio</a></li>
+  <li>From Lucknow, UP. </li> 
+<li> An Aspiring MERN Stack Developer.</li>
+<li>Profecient in HTML, CSS, JavaScript, React-Redux, MongoDB, Express and Node.js.</li>
+<li> Connect with me: <a href="abhig1502@gmail.com">abhig1502@gmail.com</a></li>
+<li> See all my work here:  <a href='https://abhishekgupta1212.github.io/'>Portfolio</a></li>
 </ul>
   <br/>
 
